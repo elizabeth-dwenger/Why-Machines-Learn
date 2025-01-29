@@ -9,5 +9,6 @@ Each notebook corresponds to a chapter or topic covered in the book.
 3. **Chapter 4**: Naive Bayes
 4. **Chapter 5**: KNN
 5. **Chapter 6**: PCA
+6. **Chapter 7**: SVM, Kernel Trick
 
 **To be continued**
