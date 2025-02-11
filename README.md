@@ -9,9 +9,8 @@ Each notebook corresponds to a chapter or topic covered in the book.
 3. **Chapter 4**: Naive Bayes
 4. **Chapter 5**: KNN
 5. **Chapter 6**: PCA
-6. **Chapter 7**: SVM, Kernel Trick
+6. **Chapter 7**: SVM; Kernel Trick
 7. **Chapter 8**: Hopfield Network 
-8. **Chapter 9**: MLP; Activation Functions
-9. **Chapter 10**: Backpropagation
+8. **Chapter 9 & 10**: MLP; Activation Functions; Backpropagation
 
 **To be continued**
