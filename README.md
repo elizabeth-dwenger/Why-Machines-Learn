@@ -12,5 +12,6 @@ Each notebook corresponds to a chapter or topic covered in the book.
 6. **Chapter 7**: SVM; Kernel Trick
 7. **Chapter 8**: Hopfield Network 
 8. **Chapter 9 & 10**: MLP; Activation Functions; Backpropagation
+9. **Chapter 11**: CNN
 
 **To be continued**
